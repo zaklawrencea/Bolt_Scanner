@@ -77,7 +77,7 @@ void print_extended_help() {
         "                --max-timeout                                                     \n"
         "                                                                                  \n"
         "        Packet time to live (ms) (Defaults: Linux = 64 (default)| Windows = 128)  \n"
-        "                --t                                                               \n"
+//      "                --t                                                               \n"
         "                --time-to-live                                                    \n"
         "                                                                                  \n"
         "        Output                                                                    \n"
