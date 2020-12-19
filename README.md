@@ -28,7 +28,7 @@ gcc version 8.2.0
 To compile
 
     cd /src
-    gcc main.a -lpthread -o boltscanner.c
+    gcc main.c -lpthread -o boltscanner.c
 
 To run:
 
