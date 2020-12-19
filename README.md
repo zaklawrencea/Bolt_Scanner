@@ -80,7 +80,6 @@ To run:
                         --max-timeout                                                     
                                                                                           
                 Packet time to live (Defaults: Linux = 64 (default)| Windows = 128)       
-                        --t                                                               
                         --time-to-live                                                    
                                                                                           
                 Output                                                                    
